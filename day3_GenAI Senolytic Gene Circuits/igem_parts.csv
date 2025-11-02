@@ -1,0 +1,201 @@
+Part URI,Name,Description
+https://synbiohub.org/public/igem/BBa_K1510929/1,BBa_K1510929,Circuit injected in Streptococcus mutans that allows S.m. yield N-Acyl homoserine lactone.
+https://synbiohub.org/public/igem/BBa_K1367003/1,BBa_K1367003,"This plasmid containing siRNA for LAR gene in Camelia sinensis, used to knockdown gene LAR."
+https://synbiohub.org/public/igem/BBa_K1367004/1,BBa_K1367004,siRNA for LAR ( leucoanthocyanidin reductase) gene in Camelia sinensis
+https://synbiohub.org/public/igem/BBa_K1420006/1,BBa_K1420006,phsABC Generator
+https://synbiohub.org/public/igem/BBa_K1336007/1,BBa_K1336007,LacI Expression Cassette with BsDyP gene
+https://synbiohub.org/public/igem/BBa_K1366000/1,BBa_K1366000,Genetic construct for lpp gen deletion
+https://synbiohub.org/public/igem/BBa_K1366001/1,BBa_K1366001,Genetic construct for lpp gen deletion
+https://synbiohub.org/public/igem/BBa_K1366002/1,BBa_K1366002,Genetic construct for lpp gen deletion
+https://synbiohub.org/public/igem/BBa_K1366101/1,BBa_K1366101,Genetic construct for lpp gene deletion (C1)
+https://synbiohub.org/public/igem/BBa_K1366102/1,BBa_K1366102,Genetic construct for msbB gene deletion (C2)
+https://synbiohub.org/public/igem/BBa_K1682005/1,BBa_K1682005,<i>P<sub>kdpF</sub></i> - GFP generator
+https://synbiohub.org/public/igem/BBa_K1682007/1,BBa_K1682007,"<i>P<sub>kdpF</sub>[-15, T>A]</i> - GFP generator"
+https://synbiohub.org/public/igem/BBa_K1682008/1,BBa_K1682008,"<i>P<sub>kdpF</sub>[-15, T>C]</i> - GFP generator"
+https://synbiohub.org/public/igem/BBa_K1682009/1,BBa_K1682009,"<i>P<sub>kdpF</sub>[-15, T>G]</i> - GFP generator"
+https://synbiohub.org/public/igem/BBa_K1695002/1,BBa_K1695002,RBS + Bacteriophage 21 codon optimized S gene
+https://synbiohub.org/public/igem/BBa_K1695004/1,BBa_K1695004,RBS + Bacteriophage 21 codon optimized R gene
+https://synbiohub.org/public/igem/BBa_K1695006/1,BBa_K1695006,RBS + Bacteriophage 21 codon optimized Rz gene
+https://synbiohub.org/public/igem/BBa_K1695008/1,BBa_K1695008,RBS + Bacteriophage 21 codon optimized S mutant gene
+https://synbiohub.org/public/igem/BBa_K1695010/1,BBa_K1695010,RBS + Bacteriophage 21 S mutant gene
+https://synbiohub.org/public/igem/BBa_K1695012/1,BBa_K1695012,Riboswitch +  Bacteriophage 21 codon optimized S gene
+https://synbiohub.org/public/igem/BBa_K1695013/1,BBa_K1695013,Riboswitch +  Bacteriophage 21 codon optimized R gene
+https://synbiohub.org/public/igem/BBa_K1695014/1,BBa_K1695014,Riboswitch +  Bacteriophage 21 codon optimized Rz gene
+https://synbiohub.org/public/igem/BBa_K1695017/1,BBa_K1695017,Riboswitch +  Bacteriophage &#955; codon optimized S gene
+https://synbiohub.org/public/igem/BBa_K1695018/1,BBa_K1695018,Riboswitch + Bacteriophage &#955; codon optimized R gene
+https://synbiohub.org/public/igem/BBa_K1695020/1,BBa_K1695020,Riboswitch + Bacteriophage &#955; codon optimized Rz gene
+https://synbiohub.org/public/igem/BBa_K1695026/1,BBa_K1695026,RBS + Bacteriophage &#955; S gene
+https://synbiohub.org/public/igem/BBa_K1695027/1,BBa_K1695027,RBS + Bacteriophage  &#955; S mutant gene
+https://synbiohub.org/public/igem/BBa_K1695028/1,BBa_K1695028,RBS + Bacteriophage &#955; R gene
+https://synbiohub.org/public/igem/BBa_K1695029/1,BBa_K1695029,RBS + Bacteriophage &#955; codon-optimized S gene
+https://synbiohub.org/public/igem/BBa_K1695030/1,BBa_K1695030,RBS + Bacteriophage &#955; codon-optimized S mutant gene
+https://synbiohub.org/public/igem/BBa_K1695031/1,BBa_K1695031,RBS + Bacteriophage &#955; Rz gene
+https://synbiohub.org/public/igem/BBa_K1695032/1,BBa_K1695032,RBS + Bacteriophage &#955; codon-optimized R gene
+https://synbiohub.org/public/igem/BBa_K1695033/1,BBa_K1695033,RBS + Bacteriophage &#955; codon optimized Rz gene
+https://synbiohub.org/public/igem/BBa_K1638030/1,BBa_K1638030,Leucine zipper fused to T25 domain of <i>cyaA</i> with cAMP-induced RFP generator
+https://synbiohub.org/public/igem/BBa_K1638031/1,BBa_K1638031,Leucine zipper fused to T18 domain of <i>cyaA</i> with cAMP-induced RFP generator
+https://synbiohub.org/public/igem/BBa_K1747003/1,BBa_K1747003,GFP generator regulated by FadR repressor
+https://synbiohub.org/public/igem/BBa_K1585321/1,BBa_K1585321,glgCAB for polycistronic expression of glycogen synthesis genes in E.coli
+https://synbiohub.org/public/igem/BBa_K1720003/1,BBa_K1720003,Human phosphodiesterase 5A gene silencing device NO.1
+https://synbiohub.org/public/igem/BBa_K1720004/1,BBa_K1720004,Human phosphodiesterase 5A gene silencing device NO.2
+https://synbiohub.org/public/igem/BBa_K1720005/1,BBa_K1720005,Human phosphodiesterase 5A gene silencing device NO.3
+https://synbiohub.org/public/igem/BBa_K1606029/1,BBa_K1606029,Gluten Updated m-cherry reporter gene
+https://synbiohub.org/public/igem/BBa_K1799018/1,BBa_K1799018,AHL-Induced RFP Generator
+https://synbiohub.org/public/igem/BBa_K1747013/1,hpd,hpd gene from Arabidopsis thaliana
+https://synbiohub.org/public/igem/BBa_K1631015/1,BBa_K1631015,"Colicin Lysis Protein Generator (medium, constitutive)"
+https://synbiohub.org/public/igem/BBa_K1688003/1,BBa_K1688003,RhlB Gene
+https://synbiohub.org/public/igem/BBa_K1688001/1,BBa_K1688001,Mono-rhamnolipid genes
+https://synbiohub.org/public/igem/BBa_K1588002/1,BBa_K1588002,tetravalen protein with epitopes from dengue virus to generate immune response
+https://synbiohub.org/public/igem/BBa_K1780017/1,BBa_K1780017,"Killer Gene, induced by AHL"
+https://synbiohub.org/public/igem/BBa_K1614021/1,BBa_K1614021,Software-generated p53 aptamer
+https://synbiohub.org/public/igem/BBa_K1614023/1,BBa_K1614023,Actin AptaBody with software generated actin aptamer (8mer)
+https://synbiohub.org/public/igem/BBa_K1614024/1,BBa_K1614024,Actin AptaBody with software generated actin aptamer (17mer)
+https://synbiohub.org/public/igem/BBa_K1588003/1,BBa_K1588003,tetravalen protein with epitopes from dengue virus to generate immune response
+https://synbiohub.org/public/igem/BBa_K1588004/1,BBa_K1588004,tetravalen protein with epitopes from dengue virus to generate immune response
+https://synbiohub.org/public/igem/BBa_K1588005/1,BBa_K1588005,tetravalent protein with epitopes from dengue virus to generate immune response
+https://synbiohub.org/public/igem/BBa_K1588006/1,BBa_K1588006,Protein with epitopes from dengue virus serotype 1 to generate immune response
+https://synbiohub.org/public/igem/BBa_K1588007/1,BBa_K1588007,Protein with epitopes from dengue virus serotype 2 to generate immune response
+https://synbiohub.org/public/igem/BBa_K1588008/1,BBa_K1588008,Protein with epitopes from dengue virus serotype 3 to generate immune response
+https://synbiohub.org/public/igem/BBa_K1588009/1,BBa_K1588009,Protein with epitopes from dengue virus serotype 4 to generate immune response
+https://synbiohub.org/public/igem/BBa_K187000/1,BBa_K187000,pAB Universal Plasmid for BioBytes Gene Assembly System
+https://synbiohub.org/public/igem/BBa_K1444010/1,BBa_K1444010,Composite promoter and weak B. subtilis RBS - C1-434
+https://synbiohub.org/public/igem/BBa_K1444011/1,BBa_K1444011,Composite promoter and consensus B. subtilis RBS - pTetR
+https://synbiohub.org/public/igem/BBa_K1444012/1,BBa_K1444012,Composite promoter and consensus B. subtilis RBS - pTetR x2
+https://synbiohub.org/public/igem/BBa_K1444013/1,BBa_K1444013,Composite promoter and weak B. subtilis RBS - pTetR
+https://synbiohub.org/public/igem/BBa_K1444014/1,BBa_K1444014,Composite promoter and weak B. subtilis RBS - pTetR x2
+https://synbiohub.org/public/igem/BBa_K1444015/1,BBa_K1444015,Composite promoter and consensus B. subtilis RBS - pLacI
+https://synbiohub.org/public/igem/BBa_K1444016/1,BBa_K1444016,Composite promoter and consensus B. subtilis RBS - pLacI
+https://synbiohub.org/public/igem/BBa_K1428000/1,BBa_K1428000,T7 promoter-driven BMC structural genes with a His6-tagged component for purification
+https://synbiohub.org/public/igem/BBa_K1431101/1,BBa_K1431101,"TetOn-3G,  an ideal controller of  mammalian gene expression with TRE-3G promoter+PolyA"
+https://synbiohub.org/public/igem/BBa_K1321102/1,BBa_K1321102,Phytochelatin (PC) EC20 + CBDcex with T7 promoter
+https://synbiohub.org/public/igem/BBa_K1321103/1,BBa_K1321103,Phytochelatin (PC) EC20 + linker-CBDcipA-linker with T7 promoter
+https://synbiohub.org/public/igem/BBa_K1321106/1,BBa_K1321106,Linker-CBDcipA-linker + Phytochelatin (PC) EC20 with T7 promoter
+https://synbiohub.org/public/igem/BBa_K1321107/1,BBa_K1321107,CBDcen-linker fused to Phytochelatin (PC) EC20 with T7 promoter
+https://synbiohub.org/public/igem/BBa_K1321113/1,BBa_K1321113,Phytochelatin (PC) EC20 + linker-CBDcipA-linker with LacI promoter
+https://synbiohub.org/public/igem/BBa_K1321116/1,BBa_K1321116,Linker-cipA-linker + phytochelatin (PC) EC20 with LacI promoter
+https://synbiohub.org/public/igem/BBa_K1321117/1,BBa_K1321117,CBDcenA-linker fused to Phytochelatin (PC) EC20 with LacI promoter
+https://synbiohub.org/public/igem/BBa_K1377000/1,BBa_K1377000,promoter of pili A gene cluster + spaA front
+https://synbiohub.org/public/igem/BBa_K1311003/1,BBa_K1311003,promoterK081005+TALE-N_terminal-LacZ-C_terminal+terminatorB0015
+https://synbiohub.org/public/igem/BBa_K1539001/1,BBa_K1539001,HPromoter->HRBS->mCherry
+https://synbiohub.org/public/igem/BBa_K1539002/1,BBa_K1539002,LPromoter->LRBS->mCherry
+https://synbiohub.org/public/igem/BBa_K1401009/1,BBa_K1401009,Transcriptional Unit with pTet-pBad tandem promoter
+https://synbiohub.org/public/igem/BBa_K1401010/1,BBa_K1401010,Transcriptional Unit with pBad-pTet tandem promoter
+https://synbiohub.org/public/igem/BBa_K1311004/1,BBa_K1311004,TetR inducible promoter+TALE N-terminal +LacZ+TALE C-terminal
+https://synbiohub.org/public/igem/BBa_K1431302/1,BBa_K1431302,SV40 promoter+SV40 PolyA
+https://synbiohub.org/public/igem/BBa_K1407000/1,BBa_K1407000,RBS(B0034)+RhlR+RhlR/PAI2 Inducible promoter +RBS(B0030)+RFP
+https://synbiohub.org/public/igem/BBa_K1407001/1,BBa_K1407001,RhlR/PAI2 Inducible promoter +RBS(B0030)+RFP+Terminator
+https://synbiohub.org/public/igem/BBa_K1407002/1,BBa_K1407002,RhlR(LVA+)+RhlR/PAI2 Inducible promoter +RBS(B0030)+RFP
+https://synbiohub.org/public/igem/BBa_K1407003/1,BBa_K1407003,constitutive production of LasR +LasR/PAI1 Inducible promoter+RBS(B0030)+RFP
+https://synbiohub.org/public/igem/BBa_K1407004/1,BBa_K1407004,LasR/PAI1 Inducible promoter +RBS(B0034)+GFP+Terminator
+https://synbiohub.org/public/igem/BBa_K1407005/1,BBa_K1407005,LasR/PAI1 Inducible promoter +RBS(B0030)+RFP+Terminator
+https://synbiohub.org/public/igem/BBa_K1407006/1,BBa_K1407006,constitutive production of LasR + LasR/PAI1 Inducible promoter +RBS(B0034)+GFP
+https://synbiohub.org/public/igem/BBa_K1407007/1,BBa_K1407007,RhlR protein(LVA-) +RhlR/PAI2 Inducible promoter +RBS(B0030)+RFP+Terminator
+https://synbiohub.org/public/igem/BBa_K1407008/1,BBa_K1407008,constitutive production of LasR+LasR/PAI1 Inducible promoter +RBS(B0034)+GFP+Terminator
+https://synbiohub.org/public/igem/BBa_K1407009/1,BBa_K1407009,RhlR protein Generator +RhlR/PAI2 Inducible promoter+RBS(B0030)+RFP+Terminator
+https://synbiohub.org/public/igem/BBa_K1407010/1,BBa_K1407010,constitutive production of LasR+LasR/PAI1 Inducible promoter +RBS(B0030)+RFP+Terminator
+https://synbiohub.org/public/igem/BBa_K1407011/1,BBa_K1407011,constitutive promoter+RhlR protein generator+RhlR/PAI2 Inducible promoter+RBS(B0030)+RFP+Terminator
+https://synbiohub.org/public/igem/BBa_K1407012/1,BBa_K1407012,constitutive promoter+RhlR protein generator(LVA-)+RhlR/PAI2 Inducible promoter+RBS(B0030)+RFP+Termi
+https://synbiohub.org/public/igem/BBa_K1407013/1,BBa_K1407013,LasR+LasR/PAI1 Inducible promoter+RFP+RhlR+RhlR/PAI2 Inducible promoter+RFP
+https://synbiohub.org/public/igem/BBa_K1407014/1,BBa_K1407014,LasR+LasR/PAI1 Inducible promoter+RFP+RhlR(LVA-)+RhlR/PAI2 Inducible promoter+RFP
+https://synbiohub.org/public/igem/BBa_K1407016/1,BBa_K1407016,LasR+LasR/PAI1 Inducible promoter+GFP+RhlR(LVA-)+RhlR/PAI2 Inducible promoter+RFP
+https://synbiohub.org/public/igem/BBa_K1407015/1,BBa_K1407015,LasR+LasR/PAI1 Inducible promoter+GFP+RhlR+RhlR/PAI2 Inducible promoter+RFP
+https://synbiohub.org/public/igem/BBa_K1481001/1,BBa_K1481001,his-mRFP under rhamnose promoter
+https://synbiohub.org/public/igem/BBa_K1367006/1,BBa_K1367006,Promoter 97 HPV
+https://synbiohub.org/public/igem/BBa_K1367007/1,BBa_K1367007,Promoter 105 (HPV 18)
+https://synbiohub.org/public/igem/BBa_K1484318/1,BBa_K1484318,Marchantia Polymorpha Candidate Promoter 1
+https://synbiohub.org/public/igem/BBa_K1510930/1,BBa_K1510930,Constitutive promoter and RBS region for Streptococcus mutans transcription.
+https://synbiohub.org/public/igem/BBa_K1510931/1,BBa_K1510931,Sequence integrated the luxR gene and pluxR promoter together.
+https://synbiohub.org/public/igem/BBa_K1366005/1,BBa_K1366005,Amp R promoter
+https://synbiohub.org/public/igem/BBa_K1366006/1,BBa_K1366006,Amp R promoter
+https://synbiohub.org/public/igem/BBa_K1481006/1,BBa_K1481006,R4 recombinase under melibiose promoter
+https://synbiohub.org/public/igem/BBa_K1725215/1,BBa_K1725215,LuxC + LuxD with BBa_K1725080 lac regulated promoter
+https://synbiohub.org/public/igem/BBa_K1618005/1,ProMao,MAO with IPTG-inducible promoter
+https://synbiohub.org/public/igem/BBa_K1725001/1,BBa_K1725001,PhlF repressible promoter + strong RBS + GFP
+https://synbiohub.org/public/igem/BBa_K1725021/1,BBa_K1725021,SrpR repressible promoter + RBS + GFP
+https://synbiohub.org/public/igem/BBa_K1725022/1,BBa_K1725022,SrpR repressible promoter + RBS + GFP
+https://synbiohub.org/public/igem/BBa_K1725042/1,BBa_K1725042,LacI regulated promoter + RBS + PhlF repressor + terminator
+https://synbiohub.org/public/igem/BBa_K1618007/1,ProRv30,Rv3030 with IPTG-inducible promoter
+https://synbiohub.org/public/igem/BBa_K1618008/1,ProRv34,Rv3034c with IPTG-inducible promoter
+https://synbiohub.org/public/igem/BBa_K1618009/1,Pro-Rv37,Rv3037c with IPTG-inducible promoter
+https://synbiohub.org/public/igem/BBa_K1593208/1,BBa_K1593208,"soxS Promoter, Sensing Antibiotics"
+https://synbiohub.org/public/igem/BBa_K1758102/1,BBa_K1758102,Translation enhancing 5-UTR + sfGFP under control of T7 promoter
+https://synbiohub.org/public/igem/BBa_K1747000/1,BBa_K1747000,Diagnostic circuit using GFP to evaluate fatty acid promoter repsonse
+https://synbiohub.org/public/igem/BBa_K1747001/1,BBa_K1747001,crtZ gene with a fatty acid promoter and GFP
+https://synbiohub.org/public/igem/BBa_K1747002/1,BBa_K1747002,crtZ gene with a fatty acid promoter and GFP
+https://synbiohub.org/public/igem/BBa_K1758390/1,BBa_K1758390,His-tagged E. coli tryptophanase under control of the T7 promoter
+https://synbiohub.org/public/igem/BBa_K1773013/1,BBa_K1773013,Lux Right promoter with strong RBS sequence and Cas3 protein
+https://synbiohub.org/public/igem/BBa_K1773014/1,BBa_K1773014,Cas3 protein with pLuxcI right promoter and medium RBS.
+https://synbiohub.org/public/igem/BBa_K1677300/1,BBa_K1677300,Lactococcus lactis p170 promoter
+https://synbiohub.org/public/igem/BBa_K1677301/1,BBa_K1677301,Lactococcus lactis p170-CP25 hybrid promoter
+https://synbiohub.org/public/igem/BBa_K1585100/1,BBa_K1585100,Anderson Promoter with lacI binding site
+https://synbiohub.org/public/igem/BBa_K1585101/1,BBa_K1585101,Anderson Promoter with lacI binding site
+https://synbiohub.org/public/igem/BBa_K1747004/1,BBa_K1747004,Fatty acid inducible promoter - no scar - RBS
+https://synbiohub.org/public/igem/BBa_K1847000/1,BBa_K1847000,promoter-RBS- annexin AV
+https://synbiohub.org/public/igem/BBa_K1747005/1,BBa_K1747005,Constitutive promoter - no scar - RBS
+https://synbiohub.org/public/igem/BBa_K1747006/1,BBa_K1747006,Fatty acid promoter - GFP - Double terminator
+https://synbiohub.org/public/igem/BBa_K1747007/1,BBa_K1747007,fatty acid inducible promoter - GFP - crtZ gene - term
+https://synbiohub.org/public/igem/BBa_K1747008/1,BBa_K1747008,Fatty acid promoter - GFP - crtZ gene - term - lacl - fadR gene - term
+https://synbiohub.org/public/igem/BBa_K1747009/1,BBa_K1747009,fatty acid promoter - GFP - term - lacl - fadR gene - term
+https://synbiohub.org/public/igem/BBa_K1695053/1,BBa_K1695053,Tightly-regulated lactose-inducible promoter with GFP
+https://synbiohub.org/public/igem/BBa_K1670003/1,BBa_K1670003,aidA-Promoter + mRFP
+https://synbiohub.org/public/igem/BBa_K1773015/1,BBa_K1773015,pLux/ci lambda promoter with 10bp at 3' end for RBS attachment
+https://synbiohub.org/public/igem/BBa_K1773016/1,BBa_K1773016,pLux/cI right promoter with strong RBS
+https://synbiohub.org/public/igem/BBa_K1722000/1,hUPll,hUPll is a bladder tissue-specific promoter .
+https://synbiohub.org/public/igem/BBa_K1773017/1,BBa_K1773017,pLux/cI right promoter with medium RBS
+https://synbiohub.org/public/igem/BBa_K1773018/1,BBa_K1773018,pLux/cI right promoter with Weak RBS
+https://synbiohub.org/public/igem/BBa_K1773019/1,BBa_K1773019,Cas3 gene with pLux/cI right promoter and strong RBS
+https://synbiohub.org/public/igem/BBa_K1773020/1,BBa_K1773020,Cas3 gene with pLux/cI right promoter and Medium RBS
+https://synbiohub.org/public/igem/BBa_K1773021/1,BBa_K1773021,Cas3 protein with pLuxcI right promoter and weak RBS.
+https://synbiohub.org/public/igem/BBa_K1811888/1,BBa_K1811888,codon optimized CUP1 copper resistance gene with RBS and promoter
+https://synbiohub.org/public/igem/BBa_K1809022/1,BBa_K1809022,Const. Promoter-RBS-ZeAFP-DT
+https://synbiohub.org/public/igem/BBa_K1809024/1,BBa_K1809024,Const. Promoter-RBS-BrAFP-DT
+https://synbiohub.org/public/igem/BBa_K1809026/1,BBa_K1809026,Const. Promoter-RBS-TmAFP-DT
+https://synbiohub.org/public/igem/BBa_K1809028/1,BBa_K1809028,Const. Promoter-RBS-BclA-LpAFP-DT
+https://synbiohub.org/public/igem/BBa_K1809030/1,BBa_K1809030,Const. Promoter-RBS-MoAFP-DT
+https://synbiohub.org/public/igem/BBa_K1809032/1,BBa_K1809032,Const. Promoter-RBS-BclA-MpAFP-DT
+https://synbiohub.org/public/igem/BBa_K1809034/1,BBa_K1809034,Const. Promoter-RBS-BclA-CfAFP-DT
+https://synbiohub.org/public/igem/BBa_K1811666/1,BBa_K1811666,CUP1 metallothionein fused to LamB with promoter and RBS
+https://synbiohub.org/public/igem/BBa_K1747010/1,BBa_K1747010,Constitutive promoter - GFP - crtZ - Term
+https://synbiohub.org/public/igem/BBa_K1747011/1,BBa_K1747011,"Fatty acid promoter - GFP - crt Z,E,B,I,Y - term"
+https://synbiohub.org/public/igem/BBa_K1747012/1,BBa_K1747012,"Fatty acid promoter - GFP - crt Z,E,B,I,Y - term - Repressor circuit"
+https://synbiohub.org/public/igem/BBa_K1662000/1,BBa_K1662000,Construct 1 Bicistronic:PelB-CDA under tetR and GFP under P(Lac)IQ promoter
+https://synbiohub.org/public/igem/BBa_K1773022/1,BBa_K1773022,Cascade with pLux/cI right promoter and strong RBS
+https://synbiohub.org/public/igem/BBa_K1773023/1,BBa_K1773023,Cascade with pLux/cI right promoter and Medium RBS
+https://synbiohub.org/public/igem/BBa_K1773024/1,BBa_K1773024,Cascade with pLux/cI right promoter and weak RBS
+https://synbiohub.org/public/igem/BBa_K1695055/1,BBa_K1695055,Strong Promoter LacZY
+https://synbiohub.org/public/igem/BBa_K1615001/1,BBa_K1615001,Morphine-6-dehydrogenase driven by LacI promoter
+https://synbiohub.org/public/igem/BBa_K1615012/1,BBa_K1615012,CBDcenA+Linker fused to MorA driven by LacI promoter
+https://synbiohub.org/public/igem/BBa_K1615013/1,BBa_K1615013,MorA fused to CBDcenA+Linker in RFC25 driven by LacI promoter
+https://synbiohub.org/public/igem/BBa_K1615014/1,BBa_K1615014,Linker+dCBD fused to MorA driven by LacI promoter
+https://synbiohub.org/public/igem/BBa_K1615015/1,BBa_K1615015,MorA fused to Linker+dCBD driven by LacI promoter
+https://synbiohub.org/public/igem/BBa_K1615016/1,BBa_K1615016,CBDcex fused to MorA driven by LacI promoter
+https://synbiohub.org/public/igem/BBa_K1615017/1,BBa_K1615017,MorA fused to CBDcex driven by LacI promoter
+https://synbiohub.org/public/igem/BBa_K1615018/1,BBa_K1615018,CBDclos fused to MorA driven by LacI promoter
+https://synbiohub.org/public/igem/BBa_K1615019/1,BBa_K1615019,MorA fused to CBDclos driven by LacI promoter
+https://synbiohub.org/public/igem/BBa_K1615020/1,BBa_K1615020,Linker-CBDcipA-linker fused to MorA driven by LacI promoter
+https://synbiohub.org/public/igem/BBa_K1615021/1,BBa_K1615021,MorA fused to Linker-CBDcipA-linker driven by LacI promoter
+https://synbiohub.org/public/igem/BBa_K1758122/1,BBa_K1758122,RraA with N-terminal His-TEV-tag under T7 promoter
+https://synbiohub.org/public/igem/BBa_K1722001/1,shTERT,shTERT is a cancer cell specific promoter with high efficiency.
+https://synbiohub.org/public/igem/BBa_K1847015/1,BBa_K1847015,promoter-RBS-INP-annexin V-RFP
+https://synbiohub.org/public/igem/BBa_K1846003/1,P(Cat)TetR,TetR circuit with constitutive promoter
+https://synbiohub.org/public/igem/BBa_K1585998/1,BBa_K1585998,Promoter-RBS spacer
+https://synbiohub.org/public/igem/BBa_K1615023/1,BBa_K1615023,Monoamine Oxidase A driven by LacI promoter
+https://synbiohub.org/public/igem/BBa_K1615046/1,BBa_K1615046,Heroin Esterase driven by LacI promoter
+https://synbiohub.org/public/igem/BBa_K1615060/1,BBa_K1615060,HerE fused to Linker+dCBD driven by LacI promoter
+https://synbiohub.org/public/igem/BBa_K1615062/1,BBa_K1615062,HerE fused to CBDcex driven by LacI promoter
+https://synbiohub.org/public/igem/BBa_K1615064/1,BBa_K1615064,HerE fused to CBDclos driven by LacI promoter
+https://synbiohub.org/public/igem/BBa_K1615079/1,BBa_K1615079,CBDcenA+Linker fused to TVEL5 driven by LacI promoter
+https://synbiohub.org/public/igem/BBa_K1841011/1,BBa_K1841011,pUO19 promoter
+https://synbiohub.org/public/igem/BBa_K1841002/1,BBa_K1841002,plac promoter for lactobacillus casei
+https://synbiohub.org/public/igem/BBa_K1758201/1,BBa_K1758201,His-tagged lac repressor under the control of the T7 promoter
+https://synbiohub.org/public/igem/BBa_K1758344/1,BBa_K1758344,Mercury responsive promoter with T7-promoter and UTR-sfGFP
+https://synbiohub.org/public/igem/BBa_K1758202/1,BBa_K1758202,His-tagged lac repressor fused to superfolder GFP under the control of the T7 promoter
+https://synbiohub.org/public/igem/BBa_K1758351/1,BBa_K1758351,Nickel responsive promoter with RFP
+https://synbiohub.org/public/igem/BBa_K1758310/1,BBa_K1758310,Chromium repressor under control of constitutive promoter and strong RBS
+https://synbiohub.org/public/igem/BBa_K1758320/1,BBa_K1758320,copper activator under control constitutive promoter and strong RBS
+https://synbiohub.org/public/igem/BBa_K1758313/1,BBa_K1758313,"Chromium repressor under control of constitutive promoter and strong RBS,chromium responsive promote"
+https://synbiohub.org/public/igem/BBa_K1758324/1,BBa_K1758324,Copper activator under control constitutive promoter and strong RBS and Copper responsive promoter
+https://synbiohub.org/public/igem/BBa_K1758322/1,BBa_K1758322,Copper activator under control constitutive promoter and strong RBS and Copper responsive promoter w
+https://synbiohub.org/public/igem/BBa_K1584008/1,BBa_K1584008,AiiA controlled by constitutive promoter
+https://synbiohub.org/public/igem/BBa_K1615090/1,BBa_K1615090,mRFP driven by LacI promoter
+https://synbiohub.org/public/igem/BBa_K1615101/1,BBa_K1615101,CBDcenA+Linker fused to mRFP driven by LacI promoter
