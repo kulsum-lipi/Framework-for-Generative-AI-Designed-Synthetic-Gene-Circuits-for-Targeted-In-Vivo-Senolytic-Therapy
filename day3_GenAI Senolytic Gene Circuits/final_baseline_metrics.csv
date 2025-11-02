@@ -1,0 +1,4 @@
+Model,AUROC_macro_OVR,AUPR_macro,Confusion_Matrix
+Logistic Regression,0.6209,0.4477,"[[29, 55, 0], [12, 90, 0], [0, 4, 0]]"
+Gradient Boosting (GBM),0.6222,0.4377,"[[40, 44, 0], [23, 79, 0], [0, 4, 0]]"
+Small NN,0.6012,0.4351,"[[40, 44, 0], [23, 79, 0], [0, 4, 0]]"
